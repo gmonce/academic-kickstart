@@ -4,27 +4,22 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Presentación"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Investigación"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "CV"
+  url = "https://exportcvuy.anii.org.uy/cv/?e254cf8bad559f83b8e9128ebe34a4d948ded99a54162baea38124a13171fb8b28224b9429f7847352b97ba0752f4a594942c58749c541e51ed4d0ac1bb754ea"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
-
-[[main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 60
 
